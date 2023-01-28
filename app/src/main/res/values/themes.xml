@@ -1,0 +1,7 @@
+<resources>
+
+    <style name="Theme.CubMuTV" parent="@style/Theme.Leanback">
+        <item name="android:fontFamily">@font/mulish</item>
+        <item name="fontFamily">@font/mulish</item>
+    </style>
+</resources>
